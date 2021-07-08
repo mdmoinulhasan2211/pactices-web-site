@@ -27,6 +27,19 @@ color:blue;
     bottom: 12%;
     position: relative;
 }
+.link-button{
+    background-color:#ffa114;
+    border-radius: 30px;
+    box-shadow: ;
+    padding: 7px 25px;
+    color: white;
+    text-decoration: none;
+    box-shadow: 1px 1px 4px rgb(160, 157, 157);
+}
+.link-button:hover{
+    background-image: linear-gradient(#ffa114,rgba(242, 255, 63, 0.979));
+    color: black;
+}
 #sec-con-id{ 
     background-image:linear-gradient(rgb(230, 228, 228),#fcf9fb);
    
