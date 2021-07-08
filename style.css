@@ -6,6 +6,9 @@ body{
 h1{
     font-size: 50px;
 }
+#contein-id:hover{
+color:blue;
+}
 .contenar-section{
     display: flex;
 }
@@ -43,4 +46,17 @@ h1{
 /*--------color code start ---------*/
 .color-orange{
     color: #ffa114;
+}
+/*--------color code end-------*/
+.iphone-box{
+    margin: 2%;
+    padding: 3%;
+    box-shadow: 10px 1px 40px rgb(221, 221, 221);
+
+}
+#iphone-center{
+    text-align: center;
+}
+#iphone-center:hover{
+    color: indigo;
 }
